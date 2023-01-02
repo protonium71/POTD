@@ -1,3 +1,5 @@
+// Task - Understand the concept of loops and try to create a pyramid of * pattern of size n (user input).
+
 #include<bits/stdc++.h>
 using namespace std;
 //const int N=;
@@ -12,3 +14,6 @@ int main(){
     }
     return 0;
 }
+
+// Time Complexity - O(n^2)
+// Space Complexity - O(1)
