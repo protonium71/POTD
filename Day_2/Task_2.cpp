@@ -1,3 +1,5 @@
+# Task - Given a string, remove the vowels from the string.
+
 class Solution{
 public:	
 		
@@ -13,3 +15,6 @@ public:
 	    return ans;
 	}
 };
+
+# Time Complexity - O(n)
+# Space Complexity - O(n)
