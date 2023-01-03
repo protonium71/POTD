@@ -1,4 +1,5 @@
-# Task - Given a string, remove the vowels from the string.
+// Task_2 - Given a string, remove the vowels from the string.
+// Problem Link - https://practice.geeksforgeeks.org/problems/remove-vowels-from-string1446/1
 
 class Solution{
 public:	
@@ -16,5 +17,5 @@ public:
 	}
 };
 
-# Time Complexity - O(n)
-# Space Complexity - O(n)
+// Time Complexity - O(n)
+// Space Complexity - O(n)
