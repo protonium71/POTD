@@ -1,4 +1,5 @@
-// Task - Given an array of integers, your task is to find the smallest and second smallest element in the array. If smallest and second smallest do not exist, print -1.
+// Task_2 - Given an array of integers, your task is to find the smallest and second smallest element in the array. If smallest and second smallest do not exist, print -1.
+// Problem Link - https://practice.geeksforgeeks.org/problems/find-the-smallest-and-second-smallest-element-in-an-array3226/1
 
 vector<int> minAnd2ndMin(int a[], int n) {
     if(n==1)return vector<int>{-1,-1};
