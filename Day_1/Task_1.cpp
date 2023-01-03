@@ -1,4 +1,4 @@
-// Task - Understand the concept of loops and try to create a pyramid of * pattern of size n (user input).
+// Task_1 - Understand the concept of loops and try to create a pyramid of * pattern of size n (user input).
 
 #include<bits/stdc++.h>
 using namespace std;
